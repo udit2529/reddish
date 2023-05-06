@@ -1,10 +1,7 @@
-# Reddish - A Reddit Clone - MERN
+# Reddish - MERN
 
 [Reddit](https://www.reddit.com) clone (a social media site) made w/ MERN stack & Redux.
 
-## Demo
-
-[Deployed on Netlify (front-end) & Heroku (back-end)](https://reddish.netlify.app)
 
 ## Built using
 
@@ -48,22 +45,6 @@
 - Loading spinners for relevant fetching processes
 - Dark mode toggle w/ local storage save
 - Responsive UI for all screens
-
-## Screenshots
-
-#### Desktop/Tablet
-
-![Desktop-home](https://github.com/amand33p/reddish-mern/blob/master/screenshots/desktop-home.png)
-![Desktop-2](https://github.com/amand33p/reddish-mern/blob/master/screenshots/desktop-2.png)
-![Desktop-3](https://github.com/amand33p/reddish-mern/blob/master/screenshots/desktop-3.png)
-
-#### Mobile
-
-![Mobile-home](https://github.com/amand33p/reddish-mern/blob/master/screenshots/mobile-home.png)
-![Mobile-2](https://github.com/amand33p/reddish-mern/blob/master/screenshots/mobile-2.png)
-![Mobile-3](https://github.com/amand33p/reddish-mern/blob/master/screenshots/mobile-3.png)
-![Mobile-4](https://github.com/amand33p/reddish-mern/blob/master/screenshots/mobile-4.png)
-![Mobile-5](https://github.com/amand33p/reddish-mern/blob/master/screenshots/mobile-5.png)
 
 ## Usage
 
